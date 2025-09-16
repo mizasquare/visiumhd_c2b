@@ -1,0 +1,16 @@
+anndata
+csbdeep
+h5py
+matplotlib
+numpy
+pandas
+Pillow
+scanpy
+scikit-image
+scipy
+scrublet
+shapely
+stardist
+tensorflow
+tifffile
+tqdm
